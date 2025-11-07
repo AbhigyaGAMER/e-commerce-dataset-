@@ -1,0 +1,201 @@
+Order_ID,Product_Name,Category,Price,Quantity,Total_Amount,Customer_Name,Customer_Email,Customer_City,Customer_Age,Payment_Method,Order_Status,Order_Date
+1,Offer Plus,Electronics,4298.38,3,12895.14,Alejandro Yang,gordonwalter@turner-moore.info,Lake Lauraborough,55,Cash on Delivery,Cancelled,2025-10-29
+2,Every Lite,Clothing,9017.92,3,27053.76,Richard Villa,kristin61@martinez.biz,Jasonshire,21,Credit Card,Shipped,2025-10-29
+3,Play Pro,Toys,7612.96,2,15225.92,Dylan Drake,frederick17@moreno-sanchez.org,Port Karen,60,UPI,Pending,2025-10-29
+4,During Max,Electronics,4359.93,5,21799.65,Charles Brock,ryan08@duarte.com,Yangmouth,54,Debit Card,Returned,2025-10-29
+5,Stage Pro,Books,8450.18,2,16900.36,Heather Perez,lesliehammond@brown-montgomery.com,Lake Trevorstad,32,UPI,Delivered,2025-10-29
+6,Expect Plus,Beauty,6393.59,5,31967.95,Tammy Daniels,ballen@hotmail.com,North Kimberly,53,Cash on Delivery,Delivered,2025-10-29
+7,Hand Pack,Electronics,2641.33,1,2641.33,Laura Wilson,wattsdavid@gmail.com,Melindaborough,18,Cash on Delivery,Delivered,2025-10-29
+8,Court Plus,Books,2261.47,5,11307.35,Sara Willis,christophermayo@lawrence-murphy.net,Samuelmouth,30,UPI,Delivered,2025-10-29
+9,Boy Lite,Sports,7126.11,2,14252.22,Casey Walker,moorealex@gmail.com,West Mary,27,UPI,Delivered,2025-10-29
+10,Without Pack,Sports,7972.04,5,39860.2,Steven Wallace,thompsonbonnie@hotmail.com,Robertland,35,Cash on Delivery,Delivered,2025-10-29
+11,Attorney Set,Clothing,213.18,3,639.54,Cynthia Rowland,mcdanielcarrie@williams-williams.biz,Gardnermouth,33,UPI,Delivered,2025-10-29
+12,Against Max,Sports,8786.46,1,8786.46,David Gaines,gpatel@hotmail.com,Port Davidland,64,Cash on Delivery,Cancelled,2025-10-29
+13,Very Set,Sports,9642.7,3,28928.1,Phyllis Johnson,rodriguezbeverly@morales.info,North Harryview,60,Credit Card,Delivered,2025-10-29
+14,Push Plus,Electronics,8801.9,5,44009.5,Frank Johnson,bennettthomas@nolan.info,Brandonhaven,28,Net Banking,Pending,2025-10-29
+15,Artist Pro,Beauty,1854.0,5,9270.0,Evan Booth,nunezbrian@allison.info,Bobbyfurt,52,Net Banking,Pending,2025-10-29
+16,East Plus,Grocery,1176.09,3,3528.27,David Paul,lhubbard@hotmail.com,Ortizfort,26,UPI,Pending,2025-10-29
+17,Inside Set,Toys,9222.85,5,46114.25,Stacie Farrell,hodgelinda@reed.com,South Anthonyhaven,26,Cash on Delivery,Shipped,2025-10-29
+18,Begin Max,Beauty,7521.74,1,7521.74,Michael Estrada,pbarajas@yahoo.com,Espinozaland,53,Credit Card,Returned,2025-10-29
+19,Behind Max,Toys,680.4,5,3402.0,David Green,jeremy45@kelly.com,South Paul,65,Cash on Delivery,Shipped,2025-10-29
+20,Wait Max,Clothing,3857.73,2,7715.46,Nicole Mcfarland,nneal@browning.org,North Seth,26,UPI,Returned,2025-10-29
+21,Above Pack,Clothing,3127.48,4,12509.92,Douglas Wheeler,gonzalezandrew@hotmail.com,Lake Danny,39,Debit Card,Returned,2025-10-29
+22,Place Lite,Electronics,5277.26,1,5277.26,Tiffany Moore,ggarcia@yahoo.com,New Mary,53,Net Banking,Returned,2025-10-29
+23,Form Lite,Home & Kitchen,5485.02,1,5485.02,Shirley Williams,kayleereyes@mccoy.biz,Mejiabury,39,UPI,Returned,2025-10-29
+24,While Pro,Beauty,8659.39,5,43296.95,Alexander Daniels,tmurray@yahoo.com,Mendozaton,21,Cash on Delivery,Returned,2025-10-29
+25,Name Pack,Grocery,4450.17,3,13350.51,Hayley Whitehead,wendy14@gmail.com,South Derrick,23,Cash on Delivery,Pending,2025-10-29
+26,Than Set,Grocery,527.5,2,1055.0,Adrian Johnson,melvin43@walters.com,South Paul,33,Cash on Delivery,Pending,2025-10-29
+27,Learn Pro,Electronics,6107.66,1,6107.66,William Martin,rcaldwell@yahoo.com,South Matthewtown,55,Cash on Delivery,Returned,2025-10-29
+28,Friend Lite,Sports,7649.05,2,15298.1,Amy Roberts,anthonyperkins@romero.com,Parkermouth,49,UPI,Pending,2025-10-29
+29,Change Max,Clothing,9702.21,4,38808.84,Rachel Cline,awilliams@burton-thompson.org,Davisside,64,Credit Card,Shipped,2025-10-29
+30,Tv Plus,Toys,2658.3,1,2658.3,Yvonne Mcguire,brookeholt@yahoo.com,North Valeriemouth,64,Debit Card,Cancelled,2025-10-29
+31,Indicate Set,Books,3951.16,4,15804.64,Sean Wu,zerickson@gmail.com,South Donnahaven,45,UPI,Pending,2025-10-29
+32,Watch Pack,Sports,7538.43,5,37692.15,Jessica Garcia,ashley17@lee.com,Johnmouth,52,Cash on Delivery,Shipped,2025-10-29
+33,Skill Plus,Grocery,5423.22,5,27116.1,Tina Ritter,priceclaire@reed.com,Gregoryside,22,Debit Card,Pending,2025-10-29
+34,Expert Pack,Toys,9962.22,5,49811.1,Nicholas Watkins,gmcmahon@cooley.org,Brownland,18,Credit Card,Shipped,2025-10-29
+35,Something Set,Sports,2880.11,5,14400.55,Kristina Bender,ingramdiane@wallace.com,Bergmouth,32,UPI,Delivered,2025-10-29
+36,Action Pro,Electronics,6128.64,2,12257.28,Joseph Ross,vreed@yahoo.com,Grayberg,48,UPI,Shipped,2025-10-29
+37,Realize Max,Home & Kitchen,3033.29,5,15166.45,Nancy Davis,uharmon@cross.org,Ellisstad,32,Credit Card,Cancelled,2025-10-29
+38,If Pro,Books,5785.75,5,28928.75,Carolyn Keller,ilopez@evans-munoz.org,Port Shawna,58,Cash on Delivery,Pending,2025-10-29
+39,Agent Max,Beauty,3281.8,3,9845.4,Travis Bradley,jonesethan@yahoo.com,New Brittany,26,Cash on Delivery,Returned,2025-10-29
+40,With Pro,Beauty,1935.88,1,1935.88,Tara White,catherinewashington@hill-pugh.com,Port Dennis,19,Debit Card,Cancelled,2025-10-29
+41,Reveal Set,Clothing,2819.75,2,5639.5,Jennifer Johnson,mccarthyandrea@hotmail.com,Cherylborough,24,UPI,Pending,2025-10-29
+42,Camera Pack,Beauty,9287.87,1,9287.87,Sydney Robinson,bellashley@gmail.com,New Shanebury,35,Credit Card,Returned,2025-10-29
+43,Rate Lite,Sports,495.96,1,495.96,Randall Jensen,kristyschmidt@gmail.com,Wongberg,64,Credit Card,Pending,2025-10-29
+44,Recognize Set,Clothing,1633.02,1,1633.02,Michael Thomas,erin92@gmail.com,Melissatown,19,Cash on Delivery,Returned,2025-10-29
+45,Compare Pack,Books,7139.14,5,35695.7,Clinton Powers,cmurphy@ward.com,Mullenborough,22,Credit Card,Cancelled,2025-10-29
+46,Other Set,Toys,1654.67,2,3309.34,Gina Tapia,fergusonmichael@hall-hinton.com,Emilytown,38,Net Banking,Pending,2025-10-29
+47,Young Plus,Beauty,8488.57,4,33954.28,Roy Henson,bmack@gmail.com,Hollyberg,44,Net Banking,Returned,2025-10-29
+48,Former Max,Beauty,2081.61,3,6244.83,Laura Stewart,randytaylor@gmail.com,South Mark,32,Cash on Delivery,Returned,2025-10-29
+49,Black Set,Books,689.04,4,2756.16,Daniel Long,turnerwilliam@yahoo.com,Snydershire,27,Debit Card,Delivered,2025-10-29
+50,Including Pro,Clothing,2248.3,2,4496.6,Michael Welch,serranojennifer@yahoo.com,Karentown,59,Net Banking,Returned,2025-10-29
+51,Once Plus,Clothing,7346.44,5,36732.2,Joel Berry,mary26@waters.com,South Bryan,36,Cash on Delivery,Cancelled,2025-10-29
+52,Special Lite,Sports,8278.32,4,33113.28,Jeremiah Romero,brittanyrobles@hotmail.com,Beverlyland,25,Credit Card,Returned,2025-10-29
+53,Buy Pro,Toys,8912.63,1,8912.63,Randy Duke,pcohen@romero.com,Richfort,38,Debit Card,Returned,2025-10-29
+54,Whose Plus,Sports,2945.58,5,14727.9,Charles Parker,taylorjohn@gmail.com,West Michelle,53,Cash on Delivery,Returned,2025-10-29
+55,Section Plus,Electronics,1945.18,2,3890.36,Samuel Ross,pbailey@hotmail.com,Erikamouth,56,Net Banking,Delivered,2025-10-29
+56,Study Pack,Home & Kitchen,8012.18,1,8012.18,Jessica Ellis,theresawatts@yahoo.com,Stewartshire,21,Credit Card,Cancelled,2025-10-29
+57,Employee Plus,Books,5499.92,3,16499.76,Jason Cochran,michellenelson@yahoo.com,Timothyshire,63,UPI,Returned,2025-10-29
+58,Likely Pack,Home & Kitchen,3490.33,3,10470.99,Kenneth Morse,shannonjennifer@yahoo.com,Port Marc,59,UPI,Delivered,2025-10-29
+59,Until Plus,Toys,4364.48,1,4364.48,Mr. David Sutton Jr.,edward65@hamilton.com,Smithbury,55,Cash on Delivery,Delivered,2025-10-29
+60,Head Set,Clothing,9694.8,4,38779.2,Susan Dalton,camachorichard@gmail.com,Crystalmouth,26,UPI,Pending,2025-10-29
+61,Marriage Pack,Sports,2945.45,3,8836.35,Donald Smith,anthony19@gmail.com,New Vickieview,49,Credit Card,Delivered,2025-10-29
+62,Assume Pro,Grocery,298.27,3,894.81,Laurie Wiley,khoffman@myers.info,Erikaport,41,UPI,Returned,2025-10-29
+63,Research Pack,Clothing,3911.78,5,19558.9,Kristin Walls,yolanda82@lopez-lopez.info,North Allison,35,Cash on Delivery,Cancelled,2025-10-29
+64,Figure Pack,Home & Kitchen,7715.4,5,38577.0,David Kim,robin10@gmail.com,Andreamouth,61,Cash on Delivery,Shipped,2025-10-29
+65,Author Pro,Toys,4596.63,2,9193.26,Nicholas Cooley,mollymoore@yahoo.com,Gracemouth,37,Net Banking,Delivered,2025-10-29
+66,Seem Max,Sports,584.77,1,584.77,Leslie Rangel,stevensandrea@chapman-buck.com,North Aaronberg,65,Net Banking,Shipped,2025-10-29
+67,Everybody Pack,Beauty,7858.99,3,23576.97,John Rosario,vadkins@evans.com,South Melissachester,60,Net Banking,Returned,2025-10-29
+68,Born Lite,Sports,3186.93,1,3186.93,Anthony Castro,jirwin@gmail.com,Melindachester,22,Cash on Delivery,Delivered,2025-10-29
+69,Thing Lite,Grocery,6892.78,4,27571.12,Caleb Rios,banksgary@buchanan.com,Port Jermainetown,37,Net Banking,Shipped,2025-10-29
+70,Participant Pack,Sports,6887.3,1,6887.3,Gabriel Proctor,lgarcia@hurley.com,Joshuaburgh,26,Credit Card,Pending,2025-10-29
+71,Could Set,Sports,3107.38,2,6214.76,Lonnie Sparks,fsanchez@yahoo.com,Juliamouth,24,UPI,Cancelled,2025-10-29
+72,Fall Lite,Beauty,3112.07,4,12448.28,Marc Thompson,cynthiaowens@gmail.com,West Zachary,59,UPI,Returned,2025-10-29
+73,Detail Pro,Beauty,4697.84,3,14093.52,Linda Francis,allenford@mcbride-randall.info,Paulstad,25,Credit Card,Returned,2025-10-29
+74,Red Set,Home & Kitchen,9302.26,3,27906.78,Christina Herrera,gregory50@gmail.com,Lake Andre,55,Net Banking,Cancelled,2025-10-29
+75,History Pack,Toys,3562.92,3,10688.76,Amanda Anderson,samantha56@yahoo.com,East Elizabeth,43,Debit Card,Delivered,2025-10-29
+76,Simple Set,Clothing,9026.46,2,18052.92,Brittany Young,rossdawn@flynn.com,South Jerrymouth,60,Credit Card,Cancelled,2025-10-29
+77,Ever Pro,Electronics,6610.13,5,33050.65,Herbert Martinez,bruce52@johnson.com,South Samuelville,49,Credit Card,Returned,2025-10-29
+78,Participant Plus,Home & Kitchen,4394.59,2,8789.18,Kristopher Jimenez,bsmith@hill.com,East Rachaelhaven,58,UPI,Cancelled,2025-10-29
+79,Well Set,Grocery,8918.5,3,26755.5,Ricardo Gibson,anthonybrown@yahoo.com,Juliefort,43,Credit Card,Shipped,2025-10-29
+80,Level Max,Toys,8667.12,2,17334.24,Corey Ellis,jeffery59@bennett-cook.org,South Jeremy,22,Debit Card,Pending,2025-10-29
+81,Today Max,Clothing,8748.24,3,26244.72,John Miles,ortizzachary@gmail.com,Mariamouth,43,Cash on Delivery,Cancelled,2025-10-29
+82,Clearly Pro,Electronics,4716.21,4,18864.84,Justin Madden,adrian89@fox.net,Hartmanport,65,Debit Card,Cancelled,2025-10-29
+83,Training Plus,Home & Kitchen,8859.14,5,44295.7,Gabriel Morse,aaron36@gmail.com,South Robert,45,Credit Card,Shipped,2025-10-29
+84,Better Lite,Books,3335.16,3,10005.48,Jason Jackson,odommelissa@bowen-kent.com,New Elainehaven,41,Cash on Delivery,Cancelled,2025-10-29
+85,Benefit Lite,Electronics,5992.55,2,11985.1,Adam Hansen,robinsonmelissa@yahoo.com,North Julie,45,Net Banking,Returned,2025-10-29
+86,Speech Set,Home & Kitchen,1450.93,3,4352.79,Brianna Jones,williamlee@hotmail.com,North Kyle,33,Debit Card,Shipped,2025-10-29
+87,Involve Plus,Beauty,6342.87,3,19028.61,Kyle Padilla,carlsondeborah@nelson-smith.com,Port Debbie,29,Credit Card,Cancelled,2025-10-29
+88,Manage Pack,Home & Kitchen,2247.75,2,4495.5,Shelia Wiggins,lewischarles@hotmail.com,Port Christopher,32,Net Banking,Returned,2025-10-29
+89,Kitchen Plus,Books,8821.87,5,44109.35,Donna Reese,melissa16@hotmail.com,Deborahmouth,30,Credit Card,Delivered,2025-10-29
+90,Summer Set,Books,2871.11,5,14355.55,John Miller,nshields@johnson.com,Pittsview,39,UPI,Returned,2025-10-29
+91,Skin Pack,Toys,9911.38,2,19822.76,Thomas Fox,hvalencia@alvarez.com,West Samantha,55,Credit Card,Cancelled,2025-10-29
+92,Medical Max,Electronics,4308.17,1,4308.17,Carlos White,russell52@ramirez.com,Harrisland,46,UPI,Returned,2025-10-29
+93,Huge Max,Electronics,2374.47,5,11872.35,David Jones,gardnertasha@hess-glover.com,New Thomas,59,Credit Card,Cancelled,2025-10-29
+94,Style Set,Books,5152.5,1,5152.5,Mary Horton,rachel84@gmail.com,East Jasonport,57,Cash on Delivery,Shipped,2025-10-29
+95,Again Lite,Grocery,2766.65,3,8299.95,Perry Gamble,kelsey95@hotmail.com,Charlesborough,38,Credit Card,Returned,2025-10-29
+96,Safe Pro,Sports,1141.72,1,1141.72,Thomas Le,colonshannon@yahoo.com,Amberberg,60,UPI,Shipped,2025-10-29
+97,Side Lite,Toys,6789.18,4,27156.72,Roger Diaz,rowlandangela@grimes-santos.com,North Gabriel,41,Cash on Delivery,Shipped,2025-10-29
+98,Discover Pro,Home & Kitchen,4361.41,5,21807.05,Sarah Shaw DVM,kaylee18@yahoo.com,Joshuachester,32,Net Banking,Delivered,2025-10-29
+99,Cell Pack,Toys,5311.34,2,10622.68,Kathleen Wallace,edward50@jones-gilbert.biz,Lake Henryland,43,Credit Card,Pending,2025-10-29
+100,Wind Set,Home & Kitchen,8439.0,5,42195.0,Richard Marquez,benjamin12@reyes.com,Charlesborough,49,Debit Card,Cancelled,2025-10-29
+101,Blood Max,Grocery,5237.18,5,26185.9,Elizabeth Morgan,craig75@yahoo.com,New Misty,56,Net Banking,Shipped,2025-10-29
+102,Evidence Set,Clothing,5329.27,2,10658.54,Louis Mendoza,larsonmatthew@pruitt.com,East Ronald,21,Credit Card,Cancelled,2025-10-29
+103,Entire Max,Electronics,9470.83,5,47354.15,Jessica Morrison,johnsonbradley@hotmail.com,Lake Diana,24,Cash on Delivery,Cancelled,2025-10-29
+104,Land Set,Clothing,2435.97,1,2435.97,Lindsey Robinson,wyatt51@yahoo.com,West Calvin,59,Debit Card,Cancelled,2025-10-29
+105,On Lite,Home & Kitchen,7385.83,4,29543.32,Katherine Hayes,schmidtphilip@gmail.com,Cherylburgh,52,Net Banking,Shipped,2025-10-29
+106,Subject Max,Sports,1803.24,5,9016.2,Katherine Diaz,freytiffany@yahoo.com,East Kathy,62,Net Banking,Shipped,2025-10-29
+107,Already Set,Grocery,6329.24,3,18987.72,Rachel Jackson,stoneheather@hamilton.com,Gouldfort,45,Net Banking,Delivered,2025-10-29
+108,Sign Plus,Beauty,9282.88,5,46414.4,Matthew Olson,mendozapatrick@phillips.info,Port Leslie,61,Debit Card,Returned,2025-10-29
+109,Air Set,Sports,8116.08,1,8116.08,Michael Smith,bruce15@yahoo.com,Jamesview,19,Debit Card,Delivered,2025-10-29
+110,Night Lite,Books,1209.56,5,6047.8,Beth Smith,paige72@brown-perez.biz,North Aprilstad,65,Credit Card,Shipped,2025-10-29
+111,Production Max,Beauty,5421.71,1,5421.71,Sergio Jones,pagejennifer@bell.com,Moralestown,18,Cash on Delivery,Shipped,2025-10-29
+112,Authority Max,Electronics,2317.58,1,2317.58,Brandon Wong,amanda45@jensen-jensen.com,Vasquezhaven,29,Debit Card,Shipped,2025-10-29
+113,News Plus,Clothing,3144.64,5,15723.2,Olivia Bonilla,perezallison@ballard.com,Williamland,26,Debit Card,Returned,2025-10-29
+114,Throw Pack,Beauty,9696.92,5,48484.6,Andrew Morris,rcastillo@wallace-wilson.com,Rachelfort,61,Net Banking,Delivered,2025-10-29
+115,Generation Max,Grocery,4026.7,3,12080.1,Ashley Knapp,erikapeck@hotmail.com,Lake Lisa,51,Net Banking,Delivered,2025-10-29
+116,Because Set,Beauty,5086.52,5,25432.6,Pamela Flynn,joannadams@yahoo.com,Wolfside,52,Debit Card,Cancelled,2025-10-29
+117,Investment Plus,Beauty,1496.39,1,1496.39,Jacob Roberts,pittmanjordan@martinez.com,New Donaldland,20,Net Banking,Delivered,2025-10-29
+118,Effect Pack,Beauty,8068.83,5,40344.15,Bryan Mason,cameronkrystal@rasmussen-gallagher.com,Turnerhaven,46,Credit Card,Delivered,2025-10-29
+119,Thought Pack,Electronics,3136.2,5,15681.0,Joe Bennett,brittanydavis@hotmail.com,West Mollyfort,40,Credit Card,Shipped,2025-10-29
+120,Thing Pro,Sports,5098.03,4,20392.12,Brian Gallegos,powersjames@washington.biz,Rodriguezburgh,34,UPI,Delivered,2025-10-29
+121,Usually Max,Books,8504.52,1,8504.52,Lawrence Richardson,boyeralexander@yahoo.com,South Brandonberg,18,Credit Card,Delivered,2025-10-29
+122,Forget Lite,Sports,3021.86,2,6043.72,Jessica Russell,clarkbrian@yahoo.com,East Julie,31,Net Banking,Delivered,2025-10-29
+123,Beat Pro,Beauty,4402.21,4,17608.84,Valerie Collins,ericgonzalez@moore-walls.com,Clarkstad,37,Credit Card,Shipped,2025-10-29
+124,Bit Set,Books,8094.83,3,24284.49,Laura Shaffer,kathryn92@rodriguez-russell.org,Wigginsfort,34,UPI,Delivered,2025-10-29
+125,Event Set,Sports,3985.09,5,19925.45,Kelly Mccann,kayla03@yahoo.com,Port Heather,34,UPI,Shipped,2025-10-29
+126,Throw Set,Grocery,6989.71,4,27958.84,Sherry Compton MD,lyonsjoshua@beck.org,Brownburgh,31,Credit Card,Shipped,2025-10-29
+127,Voice Lite,Sports,7081.55,4,28326.2,Matthew Davis,pnguyen@cannon.com,Mooreland,59,Cash on Delivery,Shipped,2025-10-29
+128,Drive Plus,Books,5058.47,5,25292.35,Eric Allen,alexisramirez@yahoo.com,Ortegamouth,40,Debit Card,Cancelled,2025-10-29
+129,Moment Pro,Sports,338.1,2,676.2,Gail Rivera,jacob36@lane-phillips.net,Ashleyborough,49,Net Banking,Returned,2025-10-29
+130,Child Pro,Sports,8023.72,2,16047.44,Stephanie Landry,robertcarter@espinoza.com,West Stephen,63,Debit Card,Pending,2025-10-29
+131,Left Set,Books,319.82,2,639.64,Jessica Landry,howardmary@yahoo.com,New Tracy,44,Cash on Delivery,Shipped,2025-10-29
+132,Which Set,Sports,350.24,1,350.24,Linda Hernandez,kristenmorris@hotmail.com,North Anthonyfort,61,Debit Card,Cancelled,2025-10-29
+133,Build Max,Beauty,5816.74,3,17450.22,Carol Burns,williamsdesiree@alexander.com,Loweside,48,Net Banking,Returned,2025-10-29
+134,Teacher Pro,Beauty,8210.97,1,8210.97,Adam Snow,brittneyhicks@yahoo.com,Perezberg,62,Debit Card,Pending,2025-10-29
+135,Fish Set,Home & Kitchen,7604.37,2,15208.74,Mr. Phillip Taylor,jessica39@yahoo.com,Hallside,25,Net Banking,Pending,2025-10-29
+136,Situation Max,Electronics,3741.42,4,14965.68,Diane Smith,matthewgomez@oneill.com,West Charlesborough,47,Debit Card,Shipped,2025-10-29
+137,Form Max,Sports,8445.0,3,25335.0,Joel Robinson,gilbertmaria@holland-jones.info,Lake Jennifermouth,22,Cash on Delivery,Shipped,2025-10-29
+138,Animal Plus,Clothing,616.2,5,3081.0,Emily Paul,ronald65@yahoo.com,Lake Peter,47,Cash on Delivery,Cancelled,2025-10-29
+139,Commercial Max,Beauty,5561.44,2,11122.88,Catherine Harrison,adunn@yahoo.com,Thomaschester,32,Debit Card,Pending,2025-10-29
+140,Fine Pro,Grocery,8687.22,2,17374.44,Diane Jones,amiller@gmail.com,Mullinsmouth,31,Debit Card,Delivered,2025-10-29
+141,Significant Lite,Clothing,7076.58,3,21229.74,Juan Lara,dawnpierce@rose-barnett.com,East Nathanland,62,Credit Card,Delivered,2025-10-29
+142,Foreign Pack,Home & Kitchen,3685.92,3,11057.76,Becky Kelly,james76@powers.net,Lake William,32,UPI,Pending,2025-10-29
+143,Until Plus,Clothing,4288.91,5,21444.55,Anne Trevino,tiffany38@proctor.org,Kristenview,47,Credit Card,Pending,2025-10-29
+144,Stuff Plus,Books,7741.74,4,30966.96,Heather Boyer,bellblake@gmail.com,East Jenniferhaven,32,Debit Card,Pending,2025-10-29
+145,Hope Lite,Electronics,9046.08,5,45230.4,Daniel Jackson,kruegerashley@harmon.biz,Lake Jamesshire,62,Cash on Delivery,Cancelled,2025-10-29
+146,Nature Pack,Home & Kitchen,7468.47,4,29873.88,Kathleen Johnson,wthompson@hernandez.com,Ayersberg,40,Credit Card,Delivered,2025-10-29
+147,Movement Pro,Toys,6285.1,3,18855.3,Ralph Bennett,craigrussell@jacobs.info,Rebeccaville,29,UPI,Pending,2025-10-29
+148,New Plus,Sports,3178.85,5,15894.25,David Reyes,michele01@johnson.info,North Ashleyhaven,38,Cash on Delivery,Cancelled,2025-10-29
+149,Increase Plus,Home & Kitchen,7179.14,4,28716.56,Kiara Murray,lwalters@cortez.com,West Carrie,18,Cash on Delivery,Returned,2025-10-29
+150,Remain Set,Electronics,1955.18,3,5865.54,Benjamin Thomas,xmcintyre@yahoo.com,South Maria,22,UPI,Pending,2025-10-29
+151,Free Plus,Toys,5795.43,5,28977.15,Vincent Nelson,ojones@hotmail.com,South Jayburgh,57,Cash on Delivery,Returned,2025-10-29
+152,Information Pro,Sports,7803.43,2,15606.86,Dr. Samuel Brown,padillacalvin@ramirez.info,New Brianton,20,Cash on Delivery,Returned,2025-10-29
+153,Responsibility Max,Home & Kitchen,9414.24,1,9414.24,Brenda Payne MD,gonzalesscott@anderson.com,Port Jennifer,38,Cash on Delivery,Delivered,2025-10-29
+154,Group Max,Beauty,258.74,1,258.74,Jennifer Weber,williamwatson@gmail.com,New Heatherton,25,UPI,Shipped,2025-10-29
+155,Television Lite,Sports,3177.64,3,9532.92,Anna Fields DDS,james71@bennett.com,Mccarthystad,41,Cash on Delivery,Shipped,2025-10-29
+156,Hope Pro,Grocery,9789.7,2,19579.4,Casey Anderson,julia29@hotmail.com,Port Stefanietown,40,Credit Card,Returned,2025-10-29
+157,Third Pack,Sports,7946.07,5,39730.35,Barbara Bell,uwilliams@evans.info,New Eduardo,26,Credit Card,Delivered,2025-10-29
+158,Wrong Plus,Grocery,6698.88,2,13397.76,Angela Miller,damon39@yahoo.com,Popeborough,32,Net Banking,Returned,2025-10-29
+159,Wait Plus,Clothing,3434.24,4,13736.96,Penny Mathis,lwhite@parsons.com,East Raymond,59,Cash on Delivery,Shipped,2025-10-29
+160,Million Lite,Books,8731.96,4,34927.84,James Hill,knappvickie@herman-johnson.com,Jeffreystad,36,UPI,Returned,2025-10-29
+161,Participant Max,Sports,3594.43,2,7188.86,Tony Mccarthy,patrick09@yahoo.com,South William,28,Debit Card,Delivered,2025-10-29
+162,Painting Pro,Home & Kitchen,6778.01,1,6778.01,Joshua Martinez,tfleming@hotmail.com,Harrisbury,60,Net Banking,Delivered,2025-10-29
+163,Between Max,Sports,8068.76,5,40343.8,Douglas Bradshaw,brendacross@yahoo.com,North Christopherburgh,65,UPI,Returned,2025-10-29
+164,Eat Pack,Books,4967.24,5,24836.2,Jamie Obrien,medinadavid@potter.org,Port Connor,64,UPI,Shipped,2025-10-29
+165,Practice Lite,Electronics,7576.11,3,22728.33,Eduardo Walter,briannajones@gmail.com,Hughesfort,41,Debit Card,Shipped,2025-10-29
+166,Us Pack,Toys,7457.63,4,29830.52,James Leach,washingtonjustin@cortez.com,New Sarah,65,Net Banking,Cancelled,2025-10-29
+167,Attention Plus,Beauty,4190.26,1,4190.26,Deborah Cruz,williamchapman@yahoo.com,West Gregorymouth,44,Debit Card,Cancelled,2025-10-29
+168,Investment Pack,Clothing,2171.94,1,2171.94,Michael Reese,dustin86@peters-elliott.biz,Darrenside,46,Cash on Delivery,Returned,2025-10-29
+169,Act Pro,Beauty,9103.97,3,27311.91,Sandra Gonzales,williamsjoshua@gmail.com,Georgeburgh,23,Net Banking,Pending,2025-10-29
+170,Behind Lite,Beauty,1929.8,4,7719.2,Jasmine Morris,ehughes@moore.biz,Colemanhaven,45,UPI,Pending,2025-10-29
+171,Until Max,Sports,9298.39,5,46491.95,Lauren Chang,josephpeters@gardner.com,Byrdmouth,18,Credit Card,Returned,2025-10-29
+172,Across Pro,Toys,7977.03,1,7977.03,Rachel Walton,ramirezcasey@hotmail.com,North David,19,Net Banking,Shipped,2025-10-29
+173,Work Pack,Clothing,4248.16,4,16992.64,Judy Tran,benjaminlaura@zuniga.com,East William,62,UPI,Returned,2025-10-29
+174,Significant Lite,Grocery,3801.67,1,3801.67,Michael Holland,cwhite@yahoo.com,East Davidtown,56,Cash on Delivery,Delivered,2025-10-29
+175,Feeling Plus,Home & Kitchen,4198.28,2,8396.56,Frank Martinez,gquinn@howell.net,Burtonfurt,43,Net Banking,Shipped,2025-10-29
+176,Region Pro,Clothing,1610.19,2,3220.38,Robert Miller,misty48@edwards.net,Port Crystal,50,Cash on Delivery,Cancelled,2025-10-29
+177,Road Pro,Electronics,7455.2,4,29820.8,Taylor Young,nicolebryan@perry.org,Ericland,42,UPI,Pending,2025-10-29
+178,Save Plus,Home & Kitchen,5333.82,2,10667.64,Melissa Tucker,bennettmarcia@yahoo.com,Livingstonville,54,Credit Card,Pending,2025-10-29
+179,Produce Set,Sports,4121.29,5,20606.45,Yvette Zamora,lauren76@hotmail.com,North Jenna,24,Net Banking,Cancelled,2025-10-29
+180,Pressure Pro,Beauty,604.76,5,3023.8,Brian Davis,williambell@yahoo.com,South Amychester,41,Net Banking,Cancelled,2025-10-29
+181,Yeah Pack,Books,6765.9,2,13531.8,Michael Nelson,cruzkimberly@knight-fox.com,Aprilfort,41,Credit Card,Pending,2025-10-29
+182,Recent Max,Electronics,9328.56,5,46642.8,Jacqueline Jones,walter39@walker.net,Floresfurt,49,Cash on Delivery,Cancelled,2025-10-29
+183,Law Plus,Clothing,9146.43,5,45732.15,Dr. Timothy Solis,gregory79@wilson.biz,Combsmouth,43,Net Banking,Shipped,2025-10-29
+184,Else Max,Electronics,1241.28,5,6206.4,Mary Schroeder,swall@gmail.com,Port Toddmouth,18,Credit Card,Cancelled,2025-10-29
+185,Health Set,Sports,2830.62,2,5661.24,Thomas Rivers,barrycrawford@jones.com,Walkermouth,55,Credit Card,Shipped,2025-10-29
+186,Single Lite,Toys,9039.46,3,27118.38,Patrick Thompson,stonejason@gmail.com,East Karla,60,Debit Card,Shipped,2025-10-29
+187,Head Max,Toys,3786.34,4,15145.36,Anthony Curry,nicholasellis@hotmail.com,Carloshaven,34,UPI,Shipped,2025-10-29
+188,Kid Max,Clothing,5908.7,5,29543.5,Robert Ayers,sheilamathis@hernandez-mcfarland.com,Mcfarlandchester,45,UPI,Shipped,2025-10-29
+189,Senior Plus,Clothing,5875.26,3,17625.78,David Terry,bmunoz@kidd-wilson.com,Port Katherineport,47,Credit Card,Returned,2025-10-29
+190,Check Pro,Clothing,6201.95,3,18605.85,William Castro,paynejeffrey@gmail.com,Susanland,49,Net Banking,Shipped,2025-10-29
+191,Often Plus,Sports,6504.2,5,32521.0,Jeffrey Morris,brittneyrandall@gmail.com,East Joseph,30,UPI,Returned,2025-10-29
+192,Yard Set,Sports,4946.25,4,19785.0,Stephanie Perez,ronnieortega@ward.biz,New Amandabury,19,Cash on Delivery,Pending,2025-10-29
+193,Protect Set,Books,5571.22,4,22284.88,Cynthia Gonzales,ecardenas@little.net,Joshuabury,59,UPI,Pending,2025-10-29
+194,Stage Set,Books,5477.83,2,10955.66,Alexandria Palmer,cassandrarichardson@yahoo.com,East Savannah,47,Cash on Delivery,Delivered,2025-10-29
+195,I Lite,Toys,2762.6,4,11050.4,Pamela Stewart,reginaingram@yahoo.com,Gibsonland,32,Credit Card,Pending,2025-10-29
+196,Window Plus,Books,8254.52,3,24763.56,Nathan Brown,ecarter@ramirez-williams.com,Charlesmouth,53,Net Banking,Delivered,2025-10-29
+197,Necessary Lite,Beauty,155.99,2,311.98,Lisa Hicks,angie24@gmail.com,Michaelfort,63,Debit Card,Shipped,2025-10-29
+198,Front Lite,Books,7042.93,4,28171.72,Teresa Moore,rflores@brown-james.info,North Christine,56,Cash on Delivery,Returned,2025-10-29
+199,Same Lite,Grocery,463.55,5,2317.75,Christina Perez,mendozabobby@johnson.com,Griffinbury,24,Credit Card,Pending,2025-10-29
+200,Special Max,Home & Kitchen,9138.49,2,18276.98,Adam Flores,ncrosby@callahan.info,East Selena,47,Net Banking,Pending,2025-10-29
